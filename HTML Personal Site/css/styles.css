@@ -1,0 +1,32 @@
+        body{
+            background-color: #E3FDFD;
+        }
+        hr{
+            border-style: none;
+            border-top-style: dotted;
+            width: 5%;
+            border-color: grey;
+            border-width: 5px;
+        }
+        h1{
+            color:#71C9CE;
+        }
+        h3{
+             color:#71C9CE;
+        }
+
+
+        /*
+        if you have multiple img tags and want to style just one, use class, img class="ex" then call that class in css by .ex { .. }
+
+        id selector -
+
+                <h1 id="heading">edfasdsadsa</h1>
+                #heading { - id is heading
+                        color: blue;
+                }
+        tags can have multiple classes but only one id.. ex..
+        <img class = "ex1 ex2" src="....."
+
+        call ex1 and ex2 in css by .ex1 {} .ex2{}
+         */
